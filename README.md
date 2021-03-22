@@ -29,4 +29,6 @@ M3U直播地址、IPTV直播源分享
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
 
 ## 香港
-> 
+> https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
+
+
