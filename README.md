@@ -5,14 +5,15 @@ M3U播放地址共享
 > 连通性测试工具：IPTV Checker 2.52
 > 
 > 测试线路：China Unicom
-> 
+
+
 > 播放工具：
 > 
-> Windows端：Potplayer
+> * Windows端：Potplayer
 > 
-> 电视端：Kodi
+> * 电视端：Kodi
 > 
-> 手机端：nPlayer
+> * 手机端：nPlayer
 
 
 ---
