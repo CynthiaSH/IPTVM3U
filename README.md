@@ -1,8 +1,8 @@
 # IPTV LINK Share
-M3U播放地址共享
+M3U直播地址、IPTV直播源分享
 
 ## 测试环境描述
-> 连通性测试工具：IPTV Checker 2.52
+> 连通性测试工具：IPTV Checker 
 > 
 > 测试线路：China Unicom
 
