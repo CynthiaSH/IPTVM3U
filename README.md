@@ -21,9 +21,9 @@ M3U直播地址、IPTV直播源分享
 
 ---
 
-# 列表描述
-## 全部列表
+# 列表
+## 全部直播源
 https://raw.githubusercontent.com/nthack/iptvlink/main/all.m3u8
 
-## CCTV（一般情况下，线路1最快）
+## CCTV直播源（一般情况下，线路1最快）
 https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u8
