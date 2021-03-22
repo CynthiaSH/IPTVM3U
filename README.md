@@ -1,2 +1,2 @@
-# iptvlink
-IPTV M3U管理地址
+# IPTV LINK
+M3U播放地址共享
