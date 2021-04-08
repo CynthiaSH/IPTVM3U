@@ -51,7 +51,7 @@ M3U直播地址、IPTV直播源分享
 ---
 
 ## 广东
-> 最近更新、检查时间：**2021.03.27**
+> 最近更新、检查时间：**2021.04.08**
 > 
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
 
