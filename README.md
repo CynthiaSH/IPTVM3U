@@ -1,14 +1,9 @@
 # IPTV LINK Share
 M3U直播地址、IPTV直播源分享
-
-# 更新时间
-> 2021.3.27
-> 
-> 检测时间详见下方分类，每个分类不定时检测连通性
+不定期增加列表，不定期检查
 
 
-
-## 测试环境描述
+## 测试环境
 > 连通性测试工具：IPTV Checker 
 > 
 > 测试线路：China Unicom
@@ -17,8 +12,7 @@ M3U直播地址、IPTV直播源分享
 
 
 
-> 播放工具：
-> 
+## 播放工具推荐
 > * Windows端：Potplayer
 > 
 > * 电视端：Kodi
@@ -27,33 +21,73 @@ M3U直播地址、IPTV直播源分享
 
 
 ---
+---
 
-# 列表
-## 全部直播源
-> 最近更新、检查时间：**2021.03.21**
-> 
+# 直播源
+## 目录
+* [全部直播源](#all)
+* [CCTV](#cctv)
+* [港台](#hktw)
+* [广东](#gd)
+
+---
+
+## 详细信息
+### <span id="all">全部直播源</span>
+#### 最近更新、检查时间
+> **2021.03.21**
+
+
+#### **M3U文件**
 > https://raw.githubusercontent.com/nthack/iptvlink/main/All.m3u
 
+
+#### **更新日志**
+> 暂无
+
+
 ---
 
-## CCTV直播源（一般情况下，线路1最快）
-> 最近更新、检查时间：**2021.03.27**
-> 
+
+
+### <span id="cctv">CCTV直播源</span>（一般情况下，线路1最快）
+#### 最近更新、检查时间
+> **2021.04.08**
+
+#### **M3U文件**
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
 
+#### **更新日志**
+> **2021.04.08**：从列表暂时移除`CCTV-11蓝光3`，线路不通
+
+
+
 ---
 
-## 香港
-> 最近更新、检查时间：**2021.04.08**
-> 
+
+
+### <span id="hktw">香港</span>
+#### 最近更新、检查时间
+> **2021.04.08**
+
+#### **M3U文件**
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
 
+#### **更新日志**
+> 暂无
+
+
+
 ---
 
-## 广东
-> 最近更新、检查时间：**2021.04.08**
-> 
+
+
+### <span id="gd">广东</span>
+#### 最近更新、检查时间
+> **2021.04.08**
+
+#### **M3U文件**
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
 
-
-
+#### **更新日志**
+> 暂无
