@@ -52,8 +52,8 @@ M3U直播地址、IPTV直播源分享。
 
 ## <span id="all">**全部直播源**</span>
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
-### 最近更新、检查时间
-> **2021.03.21**
+
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.03.21-brightgreen?style=for-the-badge)
 
 
 ### **M3U文件**
@@ -70,8 +70,8 @@ M3U直播地址、IPTV直播源分享。
 
 ## <span id="cctv">**CCTV直播源**</span>
 一般情况下，线路1最快，高峰时期线路2、3快
-### 最近更新、检查时间
-> **2021.04.08**
+
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
@@ -86,8 +86,8 @@ M3U直播地址、IPTV直播源分享。
 
 
 ## <span id="hktw">**港台直播源**</span>
-### 最近更新、检查时间
-> **2021.04.08**
+
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
@@ -102,8 +102,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 ## <span id="gd">**广东直播源**</span>
-### 最近更新、检查时间
-> **2021.04.08**
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
