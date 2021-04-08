@@ -40,9 +40,10 @@ M3U直播地址、IPTV直播源分享。
 # 直播源
 ## 目录
 * [全部直播源](#all)
-* [CCTV](#cctv)
-* [港台](#hktw)
-* [广东](#gd)
+* [CCTV-IPTV](#cctv)
+* [港台IPTV](#hktw)
+* [广东IPTV](#gd)
+* [国内各种卫视](#cn)
 
 
 
@@ -50,7 +51,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="all">**全部直播源**</span>
+## <span id="all">**全部IPTV直播源**</span>
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.03.21-brightgreen?style=for-the-badge)
@@ -68,7 +69,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="cctv">**CCTV直播源**</span>
+## <span id="cctv">**CCTV-IPTV直播源**</span>
 一般情况下，线路1最快，高峰时期线路2、3快
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
@@ -85,7 +86,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="hktw">**港台直播源**</span>
+## <span id="hktw">**港台IPTV直播源**</span>
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
@@ -93,7 +94,7 @@ M3U直播地址、IPTV直播源分享。
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
 
 ### **更新日志**
-> 暂无
+> **2021.04.08**：增加`翡翠明珠台`IPTV直播源
 
 
 
@@ -101,11 +102,26 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="gd">**广东直播源**</span>
+## <span id="gd">**广东IPTV直播源**</span>
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
+
+### **更新日志**
+> **2021.04.08**：增加`广州法治`、`广州竞赛`IPTV直播源，更新节目排位
+
+
+
+---
+
+
+
+## <span id="cn">**国内卫视**</span>
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
+
+### **M3U文件**
+> https://raw.githubusercontent.com/nthack/IPTVM3U/master/%E5%9B%BD%E5%86%85%E5%8D%AB%E8%A7%86.m3u
 
 ### **更新日志**
 > 暂无
