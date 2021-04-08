@@ -39,11 +39,11 @@ M3U直播地址、IPTV直播源分享。
 
 # 直播源
 ## 目录
-* [全部直播源](#all)
+* [全部IPTV直播源集合](#all)
 * [CCTV-IPTV](#cctv)
 * [港台IPTV](#hktw)
 * [广东IPTV](#gd)
-* [国内各种卫视](#cn)
+* [国内各种卫视IPTV](#cn)
 
 
 
@@ -51,10 +51,10 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="all">**全部IPTV直播源**</span>
+## <span id="all">**全部合集IPTV直播源**</span>
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.03.21-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 
 ### **M3U文件**
@@ -62,7 +62,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 ### **更新日志**
-> 暂无
+> **2021.04.08**：更新集合，删除了一些检测不到的源。
 
 
 ---
@@ -117,7 +117,7 @@ M3U直播地址、IPTV直播源分享。
 
 
 
-## <span id="cn">**国内卫视**</span>
+## <span id="cn">**国内卫视IPTV直播源**</span>
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
