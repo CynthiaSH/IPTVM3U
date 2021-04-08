@@ -121,7 +121,7 @@ M3U直播地址、IPTV直播源分享。
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
-> https://raw.githubusercontent.com/nthack/IPTVM3U/master/%E5%9B%BD%E5%86%85%E5%8D%AB%E8%A7%86.m3u
+> https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
 
 ### **更新日志**
 > 暂无
