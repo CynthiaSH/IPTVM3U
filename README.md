@@ -1,6 +1,27 @@
-[TOC]
+- [IPTVM3U仓库简介](#iptvm3u仓库简介)
+  - [声明](#声明)
+  - [连通性测试环境](#连通性测试环境)
+  - [播放工具推荐](#播放工具推荐)
+- [直播源](#直播源)
+  - [直播源目录导航](#直播源目录导航)
+  - [**全部合集IPTV直播源**](#全部合集iptv直播源)
+    - [**M3U文件**](#m3u文件)
+    - [**更新日志**](#更新日志)
+  - [**CCTV-IPTV直播源**](#cctv-iptv直播源)
+    - [**M3U文件**](#m3u文件-1)
+    - [**更新日志**](#更新日志-1)
+  - [**港台IPTV直播源**](#港台iptv直播源)
+    - [**M3U文件**](#m3u文件-2)
+    - [**更新日志**](#更新日志-2)
+  - [**广东IPTV直播源**](#广东iptv直播源)
+    - [**M3U文件**](#m3u文件-3)
+    - [**更新日志**](#更新日志-3)
+  - [**国内卫视IPTV直播源**](#国内卫视iptv直播源)
+    - [**M3U文件**](#m3u文件-4)
+    - [**更新日志**](#更新日志-4)
+  
 
-# IPTVM3U简介
+# IPTVM3U仓库简介
 IPTV直播源、直播地址分享；M3U直播地址分享。
 
 主要分享：`国内IPTV直播源`、`广东IPTV直播源`、`香港IPTV直播源`。
@@ -16,7 +37,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 ---
 
-## 测试环境
+## 连通性测试环境
 > 连通性测试工具：IPTV Checker 
 > 
 > 测试线路：China Unicom（中国联不通）
@@ -42,12 +63,12 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 # 直播源
-## 目录
-* [全部IPTV直播源集合](#all)
-* [CCTV-IPTV](#cctv)
-* [港台IPTV](#hktw)
-* [广东IPTV](#gd)
-* [国内各种卫视IPTV](#cn)
+## 直播源目录导航
+* [全部IPTV直播源集合](#全部合集IPTV直播源)
+* [CCTV-IPTV](#CCTV-IPTV直播源)
+* [港台IPTV](#港台IPTV直播源)
+* [广东IPTV](#广东IPTV直播源)
+* [国内各种卫视IPTV](#国内卫视IPTV直播源)
 
 
 
@@ -55,7 +76,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 
-## <span id="all">**全部合集IPTV直播源**</span>
+## **全部合集IPTV直播源**
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
@@ -73,7 +94,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 
-## <span id="cctv">**CCTV-IPTV直播源**</span>
+## **CCTV-IPTV直播源**
 一般情况下，线路1最快，高峰时期线路2、3快
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
@@ -90,7 +111,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 
-## <span id="hktw">**港台IPTV直播源**</span>
+## **港台IPTV直播源**
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
@@ -106,7 +127,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 
-## <span id="gd">**广东IPTV直播源**</span>
+## **广东IPTV直播源**
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
@@ -121,7 +142,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 
 
 
-## <span id="cn">**国内卫视IPTV直播源**</span>
+## **国内卫视IPTV直播源**
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
 
 ### **M3U文件**
