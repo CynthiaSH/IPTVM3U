@@ -123,9 +123,10 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
 
 ### 更新日志
-> **2021.04.08**：增加`翡翠明珠台`IPTV直播源
-> 
 > **2021.04.16**：修复`ViuTV`、`Viu Six TV`不能在`nPlayer`直播的问题
+>
+> **2021.04.08**：增加`翡翠明珠台`IPTV直播源
+
 
 
 
