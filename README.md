@@ -120,9 +120,15 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.16-brightgreen?style=for-the-badge)
 
 ### M3U文件
-> https://raw.githubusercontent.com/nthack/IPTVM3U/main/HK.m3u
+> https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
 
 ### 更新日志
+> **2021.04.18**：增加`星空卫视`、`J2（翡翠台2）`
+>
+> **2021.04.18**：增加`翡翠台-线路1（高清）`，将之前的线路号码往后移
+> 
+> **2021.04.18**：更新文件名为`HKTW.m3u`
+> 
 > **2021.04.16**：修复`ViuTV`、`Viu Six TV`不能在`nPlayer`直播的问题
 >
 > **2021.04.08**：增加`翡翠明珠台`IPTV直播源
