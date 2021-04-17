@@ -19,8 +19,8 @@
     - [M3U文件](#m3u文件-3)
     - [更新日志](#更新日志-3)
   - [**国内卫视IPTV直播源**](#国内卫视iptv直播源)
-    - [**M3U文件**](#m3u文件-4)
-    - [**更新日志**](#更新日志-4)
+    - [M3U文件](#m3u文件-4)
+    - [更新日志](#更新日志-4)
   
 ---
 ---
@@ -158,8 +158,8 @@ IPTV直播源、直播地址分享；M3U直播地址分享。
 ## **国内卫视IPTV直播源**
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.09-brightgreen?style=for-the-badge)
 
-### **M3U文件**
+### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
 
-### **更新日志**
+### 更新日志
 > 暂无
