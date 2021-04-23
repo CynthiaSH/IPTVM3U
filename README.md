@@ -116,7 +116,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.18-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.23-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
