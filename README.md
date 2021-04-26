@@ -38,7 +38,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 全年龄：All age
 
 ### adult
-`#NSFW`
+18+ only
 
 ---
 
