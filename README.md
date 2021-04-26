@@ -100,7 +100,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 ## **CCTV-IPTV直播源**
 一般情况下，线路1最快，高峰时期线路2、3快
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.23-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
@@ -116,7 +116,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.23-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
@@ -136,7 +136,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **广东IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.23-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
@@ -151,7 +151,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **国内卫视IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.23-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
