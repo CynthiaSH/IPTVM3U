@@ -103,7 +103,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 ## **全部合集IPTV直播源**
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 
 ### M3U文件
@@ -112,6 +112,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ### 更新日志
 > **2021.04.08**：更新集合，删除了一些检测不到的源。
+> **2021.05.16**：更新集合，删除了65个不能连接的频道
 
 
 ---
