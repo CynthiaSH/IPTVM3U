@@ -37,8 +37,6 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225704/index.m3u8?
 http://111.12.102.68:6610/PLTV/77777777/224/3221225739/index.m3u8?
 #EXTINF:-1 ,CCTV-11蓝光2
 http://111.12.102.68:6610/PLTV/77777777/224/3221225750/index.m3u8?
-#EXTINF:-1 ,CCTV-11蓝光3
-http://39.135.250.71/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil?回看=http://92ltw.top/cjwx/PLTV/xxjxhk.php?id=5628.sm
 #EXTINF:-1 ,CCTV-12蓝光1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225645/index.m3u8?
 #EXTINF:-1 ,CCTV-12蓝光2
@@ -135,42 +133,22 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://v.iam7.cn/iptv/cibn.php?code=QinZi
 #EXTINF:-1 ,CIBN动作影院
 http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
-#EXTINF:-1 ,CIBN古典音乐
-http://v.iam7.cn/iptv/cibn.php?code=78
 #EXTINF:-1 ,CIBN好莱坞
 http://v.iam7.cn/iptv/cibn.php?code=ZongHe
 #EXTINF:-1 ,CIBN健康
 http://v.iam7.cn/iptv/cibn.php?code=JianKang
 #EXTINF:-1 ,CIBN经典剧场
 http://v.iam7.cn/iptv/cibn.php?code=DOTA2
-#EXTINF:-1 ,CIBN经典乐场
-http://v.iam7.cn/iptv/cibn.php?code=162
-#EXTINF:-1 ,CIBN经典音乐
-http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 ,CIBN精品收藏
-http://v.iam7.cn/iptv/cibn.php?code=501
 #EXTINF:-1 ,CIBN精品影院
 http://v.iam7.cn/iptv/cibn.php?code=JingPin
-#EXTINF:-1 ,CIBN巨星演唱会
-http://v.iam7.cn/iptv/cibn.php?code=135
-#EXTINF:-1 ,CIBN老陈座谈
-http://v.iam7.cn/iptv/cibn.php?code=136
 #EXTINF:-1 ,CIBN流金岁月
 http://v.iam7.cn/iptv/cibn.php?code=Shoucang
-#EXTINF:-1 ,CIBN流行榜单
-http://v.iam7.cn/iptv/cibn.php?code=155
-#EXTINF:-1 ,CIBN女团专场
-http://v.iam7.cn/iptv/cibn.php?code=208
 #EXTINF:-1 ,CIBN汽车
 http://v.iam7.cn/iptv/cibn.php?code=QiChe
 #EXTINF:-1 ,CIBN情感影院
 http://v.iam7.cn/iptv/cibn.php?code=QingGan
 #EXTINF:-1 ,CIBN全电竞
 http://v.iam7.cn/iptv/cibn.php?code=115
-#EXTINF:-1 ,CIBN全球歌曲
-http://v.iam7.cn/iptv/cibn.php?code=338
-#EXTINF:-1 ,CIBN莎翁戏剧
-http://v.iam7.cn/iptv/cibn.php?code=68
 #EXTINF:-1 ,CIBN时尚生活
 http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
 #EXTINF:-1 ,CIBN文旅中国
@@ -179,8 +157,6 @@ http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
 http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
 #EXTINF:-1 ,CIBN艺术院线
 http://v.iam7.cn/iptv/cibn.php?code=YingXiong
-#EXTINF:-1 ,CIBN音乐综艺
-http://v.iam7.cn/iptv/cibn.php?code=145
 #EXTINF:-1 ,CIBN映画
 http://v.iam7.cn/iptv/cibn.php?code=TiYu
 #EXTINF:-1 ,CIBN院线大片
@@ -209,36 +185,6 @@ http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 ,IPTV5+蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-#EXTINF:-1 ,IPTV爱情喜剧
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
-#EXTINF:-1 ,IPTV动画王国
-http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
-#EXTINF:-1 ,IPTV动作电影
-http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-#EXTINF:-1 ,IPTV古装剧场
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 ,IPTV海外剧场
-http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-#EXTINF:-1 ,IPTV家庭剧场
-http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-#EXTINF:-1 ,IPTV金牌综艺
-http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-#EXTINF:-1 ,IPTV惊悚悬疑
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-#EXTINF:-1 ,IPTV精品大剧
-http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-#EXTINF:-1 ,IPTV精品电影
-http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-#EXTINF:-1 ,IPTV精品记录
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-#EXTINF:-1 ,IPTV精品综艺
-http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-#EXTINF:-1 ,IPTV军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-#EXTINF:-1 ,IPTV军事评论
-http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-#EXTINF:-1 ,IPTV明星大片
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
 #EXTINF:-1 ,Jewelry电视
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1 ,KPRF
@@ -249,10 +195,6 @@ http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw200000
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 ,MEDIACORP
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,MTV音乐
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,Music Box (SK)
-http://80.94.54.42/tvnasa/stream/playlist.m3u8
 #EXTINF:-1 ,MUSIC JAPAN
 http://122.155.180.8:5021/live/495
 #EXTINF:-1 ,Music Top
@@ -311,20 +253,14 @@ http://39.134.65.4:80/wh7f454c46tw1749080918_-1055122425/ottrrs.hl.chinamobile.c
 http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8?
 #EXTINF:-1 ,NewTV精品体育FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8?
-#EXTINF:-1 ,NewTV军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
 #EXTINF:-1 ,NewTV军旅剧场FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8?
-#EXTINF:-1 ,NewTV军事频道
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
 #EXTINF:-1 ,NewTV军事评论
 http://117.169.119.199:8080/live/junshipl/index.m3u8
 #EXTINF:-1 ,NewTV军事评论FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8?
 #EXTINF:-1 ,NewTV农业致富FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225687/index.m3u8?
-#EXTINF:-1 ,NewTV完美游戏
-http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
 #EXTINF:-1 ,NewTV武博世界FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225758/index.m3u8?
 #EXTINF:-1 ,NewTV炫舞未来FHD
@@ -333,8 +269,6 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8?
 http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8?
 #EXTINF:-1 ,NewTV中国功夫FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8?
-#EXTINF:-1 ,NewTV自由搏击
-http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 #EXTINF:-1 ,NEW安徽
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
 #EXTINF:-1 ,NEW广东
@@ -399,16 +333,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 #EXTINF:-1 ,阿坝综合
 http://118.122.239.157:1234/hls/hd-live.m3u8
-#EXTINF:-1 ,阿尔巴利亚
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 ,阿联酋 Ⅰ ATV 1
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 ,阿联酋 Ⅰ ATV 2
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 ,阿联酋 Ⅰ ATV 4
 http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:-1 ,阿联酋l迪拜萨马
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,阿联酋l迪拜赛马
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,爱谍战
@@ -589,10 +519,6 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 ,东乡电视台
 http://117.156.28.119/270000001111/1110000131/index.m3u8
-#EXTINF:-1 ,东阳新闻综合
-http://stream.dybtv.com/xwzh/GQ/live.m3u8
-#EXTINF:-1 ,东阳影视生活
-http://stream.dybtv.com/yssh/GQ/live.m3u8
 #EXTINF:-1 ,东营图文频道
 http://stream.hhek.cn/twpd/sd/live.m3u8
 #EXTINF:-1 ,東森新聞
@@ -613,8 +539,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,法国l 法国24台 (法语)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1 ,法国l 法国24台 (英语)
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 ,法国法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 ,法国法国新闻
@@ -779,8 +703,6 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225760/index.m3u8?
 http://117.169.119.199:8080/live/wmyx/index.m3u8
 #EXTINF:-1 ,黑莓电影FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225740/index.m3u8?
-#EXTINF:-1 ,黑莓电影FHD
-http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
 #EXTINF:-1 ,黑莓动画FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?
 #EXTINF:-1 ,湖北大悟综合
@@ -835,8 +757,6 @@ http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
 http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
 #EXTINF:-1 ,湖北应城新闻综合
 http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
-#EXTINF:-1 ,湖北秭归新闻综合
-http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
 #EXTINF:-1 ,湖南教育
 http://pull.hnedutv.com/live/edutv.m3u8
 #EXTINF:-1 ,湖南娄底综合台
@@ -855,8 +775,6 @@ http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
 http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
 #EXTINF:-1 ,湖南张家界公共
 http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
-#EXTINF:-1 ,湖南长沙影视台
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 #EXTINF:-1 ,互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 ,华侨城FHD
@@ -879,8 +797,6 @@ http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
 #EXTINF:-1 ,吉林生活
 http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
-#EXTINF:-1 ,吉林卫视
-http://118.123.60.5:8114/z.m3u8?FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=53&Provider_id=&Pcontent_id=&Fsv_otype=1
 #EXTINF:-1 ,吉林卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=25&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 ,吉林卫视蓝光1
@@ -1007,8 +923,6 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225686/index.m3u8?
 http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
 #EXTINF:-1 ,美国  狗狗宠物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,美国 Ⅰ MTV 音乐频道
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 ,美国 Ⅰ 布兰奇电视
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 #EXTINF:-1 ,美国 Ⅰ 法国时尚
@@ -1037,8 +951,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/pr
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 ,美国切达电视
 http://live.chdrstatic.com/cbn/primary/3.m3u8
-#EXTINF:-1 ,蒙古国lMNB
-http://103.14.38.107:1935/live/mnb.stream/master.m3u8
 #EXTINF:-1 ,民視新聞
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 ,明星大片
@@ -1055,8 +967,6 @@ http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 #EXTINF:-1 ,南阳科教
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-#EXTINF:-1 ,南阳新闻
-http://hnnz.chinashadt.com:1935/live/1003.stream/playlist.m3u8
 #EXTINF:-1 ,内蒙古新闻
 http://live.m2oplus.nmtv.cn/7/playlist.m3u8
 #EXTINF:-1 ,内蒙卫视超清2
@@ -1079,8 +989,6 @@ http://live.qxndt.com/channel2/sd/live.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,青海卫视超清2
 http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
-#EXTINF:-1 ,青海综合频道
-http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 ,青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 ,求索动物FHD
@@ -1159,8 +1067,6 @@ http://pili-live-hls.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
 http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 ,陕西西安白鸽台
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 ,陕西西安商务资讯
-http://111.20.45.157/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
 #EXTINF:-1 ,陕西西安丝路频道
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
 #EXTINF:-1 ,陕西西安丝路台
@@ -1233,14 +1139,6 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 ,四川经济
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 ,四川泸州公共台
-http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8
-#EXTINF:-1 ,四川泸州科技台
-http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
-#EXTINF:-1 ,四川遂宁公共台
-http://snlive.scsntv.com:8091/live/gggy.m3u8
-#EXTINF:-1 ,四川遂宁综合台
-http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1 ,四川卫视
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
 #EXTINF:-1 ,四川文化旅游HD
@@ -1251,8 +1149,6 @@ http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 #EXTINF:-1 ,四川影视文化
 http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-#EXTINF:-1 ,四川影视文艺HD
-http://118.123.60.13:8114/z.m3u8?FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=35&Provider_id=&Pcontent_id=&Fsv_otype=1
 #EXTINF:-1 ,宿迁公共
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 ,台視新聞
@@ -1331,12 +1227,6 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
-#EXTINF:-1 ,延安公共
-http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
-#EXTINF:-1 ,延安新闻综合
-http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
-#EXTINF:-1 ,阳光卫视
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 #EXTINF:-1 ,耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,以色列1
@@ -1355,10 +1245,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,优漫卡通
 http://111.12.102.68:6610/PLTV/77777777/224/3221225791/index.m3u8?
-#EXTINF:-1 ,有线财经
-http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
-#EXTINF:-1 ,有线娱乐
-http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
 #EXTINF:-1 ,余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 ,余姚姚江文化
@@ -1367,8 +1253,6 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 http://stream.zhystv.com/yset/sd/live.m3u8
 #EXTINF:-1 ,榆树综艺
 http://stream.zhystv.com/ysyt/sd/live.m3u8
-#EXTINF:-1 ,越南 Ⅰ 越南人民报
-http://vietcago.net/vstv/thnd.m3u8
 #EXTINF:-1 ,越南ktv
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 ,越南PTP hd
@@ -1399,22 +1283,12 @@ http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 ,云南云南娱乐台
 http://edge1.yntv.cn/channels/yntv/ynyl/m3u8:sd
-#EXTINF:-1 ,长沙地铁移动
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
-#EXTINF:-1 ,长沙女性
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-#EXTINF:-1 ,长沙新闻
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-#EXTINF:-1 ,长沙政法
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 #EXTINF:-1 ,长治公共
 http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1 ,长治教育
 http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1 ,长治新闻综合
 http://streaming.czgd.cn:8084/live/4b0bcd8509d748358b4450921fc3443b?fmt=h264_800k_flv
-#EXTINF:-1 ,昭化综合
-http://60.255.230.66:3100/hls/vxsqwmob/index.m3u8
 #EXTINF:-1 ,浙江6套FHD
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 #EXTINF:-1 ,浙江公共FHD
@@ -1427,10 +1301,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 #EXTINF:-1 ,浙江经视FHD
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江柯桥时尚台
-http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1 ,浙江柯桥综合
-http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 ,浙江留学世界台
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 #EXTINF:-1 ,浙江钱江台

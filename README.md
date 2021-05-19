@@ -79,6 +79,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 > * 电视端：Kodi
 > 
 > * 手机端：nPlayer
+>   * 部分线路在手机端nPlayer中无法打开，但是可以在PotPlayer中打开
 
 
 
@@ -127,7 +128,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 ## **全部合集IPTV直播源**
 所有直播列表集合，无整理，几百个频道，可以自己用IPTV Checker慢慢挑。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.04.08-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 
 ### M3U文件
@@ -136,6 +137,8 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ### 更新日志
 > **2021.04.08**：更新集合，删除了一些检测不到的源。
+> 
+> **2021.05.16**：更新集合，删除了65个不能连接的频道
 
 
 ---
@@ -145,7 +148,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 ## **CCTV-IPTV直播源**
 一般情况下，线路1最快，高峰时期线路2、3快
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.03-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
@@ -161,7 +164,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.03-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
@@ -172,6 +175,8 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 > **2021.04.16**：修复`ViuTV`、`Viu Six TV`不能在`nPlayer`直播的问题
 >
 > **2021.04.08**：增加`翡翠明珠台`IPTV直播源
+> 
+> **2021.05.16**：暂时隐藏`香港卫视`、`星空衛視`两个频道，连接问题
 
 
 
@@ -181,7 +186,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **广东IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.03-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
@@ -196,7 +201,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **国内卫视IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.03-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
