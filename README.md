@@ -139,7 +139,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.16-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.05.31-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
@@ -152,6 +152,8 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 > **2021.04.08**：增加`翡翠明珠台`IPTV直播源
 > 
 > **2021.05.16**：暂时隐藏`香港卫视`、`星空衛視`两个频道，连接问题
+>
+> **2021.05.31**：添加`香港卫视`（之前的链路），`ViuTV线路2`、`翡翠台-线路3`暂时不可用
 
 
 
