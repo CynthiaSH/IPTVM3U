@@ -129,7 +129,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 > https://raw.githubusercontent.com/nthack/iptvlink/main/CCTV.m3u
 
 ### 更新日志
-> **2021.04.08**：从列表暂时移除`CCTV-11蓝光3`，线路不通
+> **2021.04.08**：从列表暂时移除`CCTV-11蓝光3`，线路不可达
 
 
 
@@ -139,7 +139,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
@@ -165,13 +165,15 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **广东IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
 
 ### 更新日志
 > **2021.04.08**：增加`广州法治`、`广州竞赛`IPTV直播源，更新节目排位
+>
+> **2021.06.24**：暂时隐藏`广东卫视-蓝光3`线路，该线路不可达
 
 
 
@@ -180,7 +182,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **国内卫视IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
