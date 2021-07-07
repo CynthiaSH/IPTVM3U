@@ -139,7 +139,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **港台IPTV直播源**
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.07.07-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/HKTW.m3u
@@ -165,7 +165,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **广东IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.07.07-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/main/GD.m3u
@@ -182,7 +182,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## **国内卫视IPTV直播源**
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.07.07-brightgreen?style=for-the-badge)
 
 ### M3U文件
 > https://raw.githubusercontent.com/nthack/IPTVM3U/master/CN-STV.m3u
